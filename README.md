@@ -1,4 +1,4 @@
 swp13-msp
 =========
 
-Sharepoint Semantische SUche
+Sharepoint Semantische Suche
